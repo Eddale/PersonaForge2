@@ -9,9 +9,9 @@ It's a markdown file (basically Plain Text) pretty much all text editors should 
 
 You can copy it straight into ChatGPT 4 and away you go.
 
-Note on ChatGPT 3.5 - It seems to be struggling with superpropts like this recently. It can do it, you just have to work with ChatGPT more and ofter currect it for rushing ahead.
+Note on ChatGPT 3.5 - It seems to be struggling with superprompts like this recently. It can do it, you just have to work with ChatGPT more and often correct itfor rushing ahead.
 
-If you figure otu a version for 3.5 I would love to see it
+If you figure out a version for 3.5 I would love to see it
 
 ## Why GitHub?
 
